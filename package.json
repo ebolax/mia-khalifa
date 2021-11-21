@@ -1,0 +1,27 @@
+{
+    "name": "mia-khalifa",
+    "version": "1.0.4",
+    "description": "Add Mia Khalifa into your images",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js",
+        "cli": "mia-khalifa"
+    },
+    "keywords": [
+        "Mia Khalifa",
+        "image",
+        "import"
+    ],
+    "author": "ebolax",
+    "license": "ISC",
+    "dependencies": {
+        "jimp": "^0.16.1"
+    },
+    "homepage": "https://github.com/ebolax/mia-khalifa",
+    "bugs": {
+        "url": "https://github.com/ebolax/mia-khalifa/issues"
+    },
+    "bin": {
+        "mia-khalifa": "cli.js"
+    }
+}
